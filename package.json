@@ -1,0 +1,21 @@
+{
+  "name": "auto-inventory-app",
+  "version": "1.0.0",
+  "description": "> An app to allow car dealers to manage website inventory from a mobile phone",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodeMonkeyMC/CarSellerApp.git"
+  },
+  "author": "Connolly Technologies",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "https://github.com/CodeMonkeyMC/CarSellerApp/issues"
+  },
+  "homepage": "https://github.com/CodeMonkeyMC/CarSellerApp"
+}
